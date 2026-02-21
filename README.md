@@ -1,2 +1,2 @@
-# fictional-garbanzo
+# Fictional-garbanzo
 
