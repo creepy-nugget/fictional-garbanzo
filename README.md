@@ -15,7 +15,7 @@ A modern, asynchronous Telegram bot built on **Linux Mint** to showcase system m
 - **Language**: Python 3.12
 - **OS**: Linux Mint
 - **Libraries**: `python-telegram-bot`, `psutil`, `python-dotenv`
-- for more info check requirement.txts
+  for more info check requirement.txts
 
 ## ⚙️ Setup Instructions
 1. **Clone the repo:**
