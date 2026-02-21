@@ -25,6 +25,9 @@ A modern, asynchronous Telegram bot built on **Linux Mint** to showcase system m
 
 ## Near-future capabilities of bot:
 I am planning to add many more features:
+
 -Extract Youtube videos(480p,720p,1080p) and audios(128 kbps,320kbps)
+
 -Real time Crypto/Stock tracking
+
 -TBA....
